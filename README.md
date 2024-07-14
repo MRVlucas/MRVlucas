@@ -14,3 +14,4 @@ https://github.com/MRVlucas/ProjetoS.git
 https://sites.google.com/view/projeto--da-alura/p%C3%A1gina-inicial
 
 https://sites.google.com/aluno.educacao.pe.gov.br/desafioalurageek/in%C3%ADcio
+https://sites.google.com/aluno.educacao.pe.gov.br/alura-fix-github/in%C3%ADcio
